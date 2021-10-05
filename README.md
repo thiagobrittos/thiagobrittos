@@ -1,11 +1,11 @@
-[![header](https://user-images.githubusercontent.com/78651661/115150474-17b16500-a058-11eb-81d4-5cabed448099.jpg)](https://arthurbritto.github.io/)
 
 
-# Hello, fellow human! R2D2 here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Arthur Britto and I'm a full-stack developer living in Portugal.
+# Hello, fellow human! Thiago here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Here is my <a href="https://arthurbritto.github.io/">website</a> and you can reach me out on <a href=https://www.linkedin.com/in/arthurbritto/>Linkedin</a>
+My name is Thiago Britto and I'm a full-stack developer living in Portugal.
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,10 +14,10 @@ Here is my <a href="https://arthurbritto.github.io/">website</a> and you can rea
 ## Some of my stats:
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/?username=arthurBritto&theme=dracula&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=thiagobrittos&theme=dracula&show_icons=true" />
 </a>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurBritto&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrittos&layout=compact" />
 </a>
 
 ### Thank you for checking my profile :)
