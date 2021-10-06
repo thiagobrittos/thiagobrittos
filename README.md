@@ -1,5 +1,4 @@
-
-
+![Portfólio (1)](https://user-images.githubusercontent.com/88943140/136290634-992c11b1-4184-4663-8cbd-bcb8ab85d6a8.jpg)
 
 # Hello, fellow human! Thiago here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
